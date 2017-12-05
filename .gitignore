@@ -27,6 +27,7 @@ project.xcworkspace
 .idea
 .gradle
 local.properties
+package-lock.json
 
 # node.js
 #
