@@ -1,6 +1,6 @@
 {
   "name": "react-native-touchable-bounce",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "React Native Touchable Bounce",
   "main": "src/index.js",
   "license": "BSD-3-Clause",
@@ -24,6 +24,7 @@
     "react-native": "^0.50"
   },
   "dependencies": {
+    "create-react-class": "^15.6.2",
     "prop-types": "^15.6.0"
   }
 }
